@@ -2,6 +2,7 @@ site_name: Daisy DB Documentation
 site_description: >-
   kirk
 site_author: ヾ(゜Д゜)ノ
+docs_dir: "daisy db documentation/docs"
 
 theme:
   name: material
