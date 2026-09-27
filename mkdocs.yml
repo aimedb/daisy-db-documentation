@@ -1,4 +1,5 @@
 site_name: Daisy DB Documentation
+docs_dir: "daisy db documentation/docs"
 site_description: >-
   AimeDB | INFO | daisy
 site_author: ヾ(゜Д゜)ノ
