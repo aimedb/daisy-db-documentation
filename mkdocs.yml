@@ -1,22 +1,22 @@
 site_name: Daisy DB Documentation
 site_description: >-
-  kirk
+  AimeDB | INFO | daisy
 site_author: ヾ(゜Д゜)ノ
-docs_dir: "daisy db documentation/docs"
 
 theme:
   name: material
+  logo: assets/icon.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: deep purple
+      primary: teal
       accent: pink
       toggle:
         icon: material/weather-night
         name: yeah, my eyes also hurt
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: deep purple
+      primary: teal
       accent: pink
       toggle:
         icon: material/weather-sunny
