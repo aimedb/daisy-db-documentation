@@ -42,8 +42,9 @@ to be 600x324.
 
 ## Vocaloid 4 Dev Usage
 
-!!! danger "Author's note"
-    No, you do not need to keep VIVI’s voicebank, if you are wondering.
+??? question "...What about VIVI?"
+    No, you do not need VIVI’s voicebank, if you are wondering.
+    Either way, your storage is gonna thank you for not keeping her.
 
 You will need to set up the Dev Editor, and then ink the path to your bank. As you may
 already know, Vocaloid can’t run without at least one installed voicebank, so keep that
