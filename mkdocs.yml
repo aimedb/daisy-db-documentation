@@ -60,7 +60,7 @@ markdown_extensions:
 nav:
   - Welcome Back: index.md
   - Getting Started:
-      - Folder Setup: getting-started/foldersetup.md
+      - Folder Setup: getting-started/folder-setup.md
       - Transcriptions: getting-started/transcriptions.md
   - Database Workflow:
       - Creating the Database: workflow/starting.md
