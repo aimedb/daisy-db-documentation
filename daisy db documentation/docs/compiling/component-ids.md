@@ -8,9 +8,11 @@ of this, so we will use it for our example.
 ![](../assets/original/page-29-img-48.png)
 
 Simply, enable ‘Advanced’, input the raw string and let the tool do the encoding job for
-you. You are now free to copy the ID and use it for your voicebank. ※ Always ensure you
-wrote everything correctly, not doing so can result in encoding errors or voicebank
-malfunctions within the Editor.
+you. You are now free to copy the ID and use it for your voicebank.
+
+!!! danger "Author's note"
+    Always ensure you wrote everything correctly, not doing so can
+    result in encoding errors or voicebank malfunctions within the Editor.
 
 ## How’s a .vvd made ?
 
