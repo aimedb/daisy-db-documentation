@@ -1,7 +1,7 @@
-# Vocaloid Editor Import process
+# Editor Import process
 
 Once you have your packaged voicebank (and if it’s the case, installer), you’ll be able to
-load it in with Vocaloid 4FE+ Alpha using its Voiceloader/Voicebank Client. So start it
+load it in with V4FE+ Alpha using its Voiceloader/Voicebank Client. So start it
 up, locate your voicebank via ‘File import’ and optionally unlock the XSY.
 
 ![](../assets/original/page-31-img-50.png)
@@ -10,7 +10,7 @@ Using the Singer editor you can set your default singer, make XSY presets, and o
 
 ![](../assets/original/page-32-img-51.png)
 
-Getting your voice in the Vocaloid5/6 Editors is just as simple, run the .bat installer
+Getting your voice in the V5/6 Editors is just as simple, run the .bat installer
 generated via VVD Editor Plus as admin, run Vocareg one time, done (this is in the case
 of FE libraries, the workflow for ‘legal’ databases is significantly different).
 
@@ -18,7 +18,7 @@ of FE libraries, the workflow for ‘legal’ databases is significantly differe
 
 ![](../assets/original/page-33-img-53.png)
 
-Doing it like this will also have your voice show up in Tunelab, making it fully usable.
+This method will also allow your voice to be used in Tunelab.
 
 ![](../assets/original/page-33-img-54.png)
 
@@ -40,14 +40,14 @@ to be 600x324.
 !!! danger "Author's note"
     Always remember to maintain the correct dimensions for setup .bmps !
 
-## Vocaloid 4 Dev Usage
+## V4 Dev Usage
 
 ??? question "...What about VIVI?"
     No, you do not need VIVI’s voicebank, if you are wondering.
     Either way, your storage is gonna thank you for not keeping her.
 
 You will need to set up the Dev Editor, and then ink the path to your bank. As you may
-already know, Vocaloid can’t run without at least one installed voicebank, so keep that
+already know, the Editor can’t run without at least one installed voicebank, so keep that
 in mind. A database will be required for the Editor to start, just like with regular versions.
 
 In the DB_Dev.ini, copy your paths and set ‘BankSelect’ to your language of choice.
@@ -59,14 +59,14 @@ singer’s name.
 ![](../assets/original/page-25-img-41.png)
 
 !!! danger "Author's note"
-    This version of the Vocaloid Editor is used strictly for testing purposes,
+    This version of the Editor is used strictly for testing purposes,
     meaning it has certain limits such as no XSY Cross Synthesis support and
     others.
 
 ## SYNTHESIS_WORKSPACE(W)
 
 Synthesis Workspace is one of DBTool's many interesting features. In essence, it allows
-you to directly view how the Vocaloid Editor uses your voicebank. To access this, simply
+you to directly view how the Editor uses your voicebank. To access this, simply
 render out a sequence from the Dev Editor and save the .msd together with it.
 
 ![](../assets/original/page-25-img-42.png)
