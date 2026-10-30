@@ -23,7 +23,7 @@ try my best to cover everything you need to know for this segment.
 
 ## What are G2PAs ?
 
-If you’ve looked through Vocaloids files at least once before, chances are you saw
+If you’ve looked through the files at least once before, chances are you saw
 several .dll files labeled like ‘g2pa3_JPN.dll’ or ‘g2pa3_ENG.dll’.
 
 In simple terms, their role is to convert your inputs in the Editor to phonetic symbols for
@@ -36,15 +36,11 @@ phonemizers.
 
 ## What the hell is an X-Sampa ?
 
-Let’s get something out of the way. X-Sampa is NOT a Vocaloid thing.
-
 X-Sampa (Extended Speech Assessment Methods Phonetic Alphabet) is a system for
-representing the International Phonetic Alphabet using ASCII characters. Miku did not
-come up with this.
-
-Vocaloid uses X-Sampa for the phonetic system. So typically, you’d work with it when
+representing the International Phonetic Alphabet using ASCII characters.
+Daisy uses X-Sampa for the phonetic system. So typically, you’d work with it when
 making a dictionary and a G2PA. Despite that, implementing your own system is
-completely possible as long as you do it correctly and optimize it for Vocaloid.
+completely possible as long as you do it correctly and optimize it properly.
 
 ![](../assets/original/page-23-img-40.png)
 
@@ -53,8 +49,8 @@ completely possible as long as you do it correctly and optimize it for Vocaloid.
 A template is included in the resources tab of the page. Search for the
 Custom G2PA Base.
 
-The .zip file includes a .dll and a .ini. Both work fine. Vocaloid should be able to read
-both kinds of files. If you know your way around writing and making an actual dynamic
+The .zip file includes a .dll and a .ini. Both should be OK.
+If you know your way around writing and making an actual dynamic
 link library, be my guest. However not everyone knows how magic like that is done, and
 that’s why I’ll be explaining the easier method, which is writing a .ini instead of a .dll.
 
@@ -82,7 +78,7 @@ Once you’re done writing your G2PA, go to C:\Program Files
 (x86)\VOCALOID4\Editor or C:\Program Files (x86)\Vocaloid4FE if you’re using FE,
 and add your phonemizer.
 
-By default, Vocaloid is limited to only 5 G2PAs at a time, since it has only 5 slots in the
+By default, the Editor is limited to only 5 G2PAs at a time, since it has only 5 slots in the
 Registry.
 
 To add your own slot for your own phonemizer, you’re going to head to your Registry
@@ -99,6 +95,6 @@ Inside the key you’ve just made, create a new string value (‘New > String Va
 Double click the string, and change ‘Value Name’ to ‘g2pa’ and ‘Value Data’ to your
 G2PAs name. (Example : g2pa4_CHS.dll, g2pa4_CHS.ini)
 
-You’re done, your custom G2PA should now work within Vocaloid. (Special thanks 2
+You’re done, your custom G2PA should now work. (Special thanks 2
 ZouZouPowa for figuring this part out !!)
 
