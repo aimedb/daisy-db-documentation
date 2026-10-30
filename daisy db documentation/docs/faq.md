@@ -5,7 +5,7 @@ most relevant issues are covered here. Still stuck? Visit the [Discord server](h
 ## Getting started
 
 ??? question "How hard would you say this is?"
-    Vocaloid is a glorified UTAU or DeepVocal if anything. You should at
+    This is a glorified UTAU or DeepVocal if anything. You should at
     least understand the basics of creating a voicebank for either before
     picking this up; if you're not familiar with that already, you're likely
     to struggle.
@@ -17,9 +17,9 @@ most relevant issues are covered here. Still stuck? Visit the [Discord server](h
 
     ※ For example, the English "4/dx" phonetic may need VCV to work smoothly.
 
-??? question "How does Vocaloid's pitch system function?"
+??? question "How does the pitch system function?"
     It's frequency-based, as a result, pitch suffixing doesn't matter. Be careful with
-    your high range; it can dominate your voicebank. For instance you should put 
+    your high range, as it can dominate your voicebank. For instance you should put 
 	a falsetto in its own separate voicebank, or tag it with a special phoneme.
 
 ??? question "Should I clean my samples before labeling?"
@@ -31,10 +31,10 @@ most relevant issues are covered here. Still stuck? Visit the [Discord server](h
 ## Building & porting
 
 ??? question "Should I work on this on an external drive?"
-    Yes. Vocaloids can come out to 1GB or 20GB+, in *dev* form. Do work on an
-    external drive if you wish to.
+    Yes. Databases can come out to 1GB or 20GB+, in *dev* form. Do work on an
+    external drive if you wish to, and believe it is appropriate to do.
 
-??? question "I have a UTAU voicebank : can I port it to Vocaloid?"
+??? question "I have a UTAU voicebank : can I port it ?"
     Possible, as long as it's not a CV bank. The result may come out slightly
     weird, though.
 
@@ -42,12 +42,12 @@ most relevant issues are covered here. Still stuck? Visit the [Discord server](h
     Neither is encouraged.
 
 ??? question "Should I share my bank?"
-    A mixed bag, as it's OK to distribute home-made Vocaloid databases, as long
+    A mixed bag, as it's OK to distribute home-made databases, as long
     as you don't brand them as official, and you use discretion.
 
 ??? question "Why not just CV?"
     [Arsloid](https://vocaloid.fandom.com/wiki/ARSLOID_(VOCALOID4)#SOFT_).
-    That's why. Jokes aside... Vocaloid simply can't survive on CV alone. It's
+    That's why. Jokes aside... The engine simply can't survive on CV alone. It's
     nowhere near as versatile as UTAU is for voicebank formats.
 
 ## Dictionaries & phonetics
@@ -62,16 +62,15 @@ most relevant issues are covered here. Still stuck? Visit the [Discord server](h
     that, there's no obvious single cause.
 
 ??? question "What's up with the N\\ ?"
-    Learn the context of Vocaloid's phonetic map for your desired language, `N\` is
-    just one of several "N" phones.
+    Learn the context of the phonetic map for your desired language. In this case, `N\` is
+    just one of several "N" phones for Japanese.
 
 ??? question "What's [?] ?"
-    Used for glottal stops. Vocaloid voicebanks typically categorize these as
-    "Glottal Plosives."
+    It is for glottal stops. Typically, they are categorized as "Glottal Plosives"
+	in the dictionary.
 
-??? question "What's up with Vocaloid's scales?"
-    They're off by 1 — for example, C4 in a standard reference is C3 in
-    Vocaloid.
+??? question "What's up with the scales in the Editor ?"
+    They're off by 1 — for example, C4 in a standard reference is C3 here.
 
 ??? question "How is a pseudo-EVEC created?"
     Add more vowels using the dictionary editor's **Special → Change Phonetic
@@ -80,16 +79,16 @@ most relevant issues are covered here. Still stuck? Visit the [Discord server](h
 ## Errors
 
 ??? question "What do I do if the DB tool crashes?"
-    The devkit saves your edits in real time — just reopen it.
+    Edits are saved in real time — just reopen it.
 
 ??? question "Voicebank compiler errors : what are -9 and -1?"
     `-9` is a segmentation error, usually an incomplete or incorrect
     configuration. `-1` is an audio format error.
 
-??? question "Dev Editor doesn't detect my bank?"
+??? question "What if the Dev Editor doesn't detect my bank?"
     Double-check both paths are correct, the only difference should be that
     one path ends in `.tree`. Keep voicebank names short and simple: no
-    periods, use underscores.
+    periods, instead use underscores.
 
 ??? question "What if my CompIDs overlap?"
     Make another one — preferably one you wrote yourself rather than an
@@ -101,6 +100,6 @@ most relevant issues are covered here. Still stuck? Visit the [Discord server](h
 
 ## Usage in other Editors
 
-??? question "What about usage in other instances of Vocaloid?"
-    Piapro Studio, Tunelab, and Vocaloid Editors 3 through 6 will all work
-    setup workflow may differ slightly between them.
+??? question "What about usage in other Editors ?"
+    Piapro Studio, Tunelab, and V3-6 will all work.
+    Setup workflow may differ slightly between them.
