@@ -51,7 +51,7 @@ example for visual reference.
     highly recommended to avoid duplicates per pitch (for example : [b a] appearing twice in
     your transcription).
 
-Vocaloid uses a ‘context’ system that allows for certain phonetics to only show up
+Daisy uses a ‘context’ system that allows for certain phonetics to only show up
 certain scenarios, such as the different N’s in Japanese, or the English aspirated or
 unaspirated consonants. Below are listed examples using all of them. Please be sure
 to transcript these accordingly.
@@ -74,13 +74,13 @@ to transcript these accordingly.
 | No | l0 | Light l |
 | Yes | l | Dark l |
 
-As you can see some of these will need stationeries. Not just in Japanese but English
+As you can see some of these will need stationaries. Not just in Japanese but English
 or any other language you may be working in. Please be careful if you choose not to
 work in x-sampa, though the rules generally stay the same.
 
 !!! danger "Author's note"
-    You should not let Vocaloid fill in gaps for phonetic transitions on its own as it will
-    give you extremely harsh sounding results and outputs in the Editor. An empty transition
+    You should not leave gaps in your phonetic transitions, as that is likely to result in
+    harsh sounds when playing a voicebank in the Editor. An empty transition
     means an empty gap in your voicebank. Always ensure you have all needed phonetic
     transitions for the best results.
 
