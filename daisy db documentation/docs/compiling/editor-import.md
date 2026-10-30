@@ -30,9 +30,9 @@ You will need to look in :
 
 > C:\Program Files\Common Files\VOCALOID6\Resource\Voice
 
-> Make a folder with the voicebank’s compID as its name inside either of the paths mentioned above
+1. Make a folder with the voicebank’s compID as its name inside either of the paths mentioned above
 
-> Inside your newly created folder, add an image named setup.bmp; dimensions need
+2. Inside your newly created folder, add an image named setup.bmp; dimensions need
 to be 600x324.
 
 ![](../assets/original/page-34-img-55.png)
