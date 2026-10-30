@@ -4,8 +4,8 @@ This process is eerily similar to building an UTAU bank. It’s basic; map out y
 pitches, prepare your folder and add your recordings inside them. You should do at
 most 11 pitches, avoid going over this amount.
 
-Vocaloid uses ‘stationaries’ and ‘articulations’. Stationary samples are what help a
-voicebank hold its pitch in the middle of a note. You can think of them as a V sample.
+There are two terminologies you should get familiar with : ‘stationaries’ and ‘articulations’. Stationary samples are what
+help a voicebank hold its pitch in the middle of a note. You can think of them as a V sample.
 
 Articulations can be CV, CVVC. VCV, etc. In more technical terms, Articulation means
 distinction of speech.
@@ -36,7 +36,7 @@ In simpler terms:
 A more in-depth explanation :
 
 A Stationary, or The Looped sample is a short-sustained audio file that is looped in the
-editor for longer notes. It’s where more of the Vocaloids tone comes from. In fact,
+editor for longer notes. It’s where most of the voice's tone comes from. In fact,
 these aren’t always limited to just vowels, but sometimes consonants like N or in
 English, L. They are 100% needed and should not be skipped during production.
 
