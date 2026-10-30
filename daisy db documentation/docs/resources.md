@@ -11,8 +11,8 @@
 | DDB Tools — packages your voicebank for Editors | Yuukawa Hiroshi | [Open](https://github.com/yuukawahiroshi/ddb-tools) |
 | DDB Tools GUI — even easier packaging | UselessBug & Yuukawa Hiroshi | [Open](https://github.com/ayatinene/ddb-tools) |
 | Dictionary Collection | ヾ(゜Д゜)ノ | [Open](https://mega.nz/folder/hkgUmRiS#6-UdxUvEKBK-5vjef6lpag) |
-| Vocaloid Custom Language G2PA Sheet | ZouZouPowa | [Open](https://docs.google.com/spreadsheets/d/1Lr2VMc1g346xYltbI3fbal7m76TCVBlDAn-YZKLylTM/edit?gid=0#gid=0) |
-| Vocaloid Custom Language G2PA Base | Yanwu Project | [Open](https://www.mediafire.com/file/fejtjae5h984e3c/Dictionary_base.zip/file) |
+| Custom Language G2PA Sheet | ZouZouPowa | [Open](https://docs.google.com/spreadsheets/d/1Lr2VMc1g346xYltbI3fbal7m76TCVBlDAn-YZKLylTM/edit?gid=0#gid=0) |
+| Custom Language G2PA Base | Yanwu Project | [Open](https://mega.nz/folder/EkR23T5a#B0vGK5Y5-r2DedIDGXXlPQ) |
 | Phn_Seg_edit — fork of Phn_Seg.py, generates a moresampler-like base | H5X2 | [Open](https://files.catbox.moe/orxb7r.rar) |
 | Lab to seg | Rozea/Kori | [Open](https://drive.google.com/file/d/1Q1rUyF08BVCmDxuYPKkSut5CBX_OIx1J/view) |
 | Melodyne — for editing/correcting sample pitch | — | [Open](https://drive.google.com/file/d/1Ga566Es8hLinnDZxbxVMTOwuLzwzVdIT/view?usp=drivesdk) |
