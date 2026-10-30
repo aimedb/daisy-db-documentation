@@ -66,7 +66,7 @@ a risk of your IDs overlapping, which you don’t want to happen.
 
 So, ideally you’d write your own.
 
-VOCALOID Component IDs are numeric strings made of 14 digits, each managing a
+Component IDs are numeric strings made of 14 digits, each managing a
 different aspect of your voicebank such as your vendor code, product code, language
 code and version code. Please refer to the graph below for better reference.
 
