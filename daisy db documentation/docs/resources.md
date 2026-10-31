@@ -7,7 +7,7 @@
 | Resource | Credit | Link |
 |---|---|---|
 | EpR documentation extension | Raz | [Open](https://rentry.org/xei39tdi) |
-| VVD Editor Plus — generates `.vvd`s and install/uninstall scripts | UselessBug & atonyxu | [Open](https://slidingwall.github.io/VVD/help.html) |
+| VVD Editor Plus — generates `.vvd`s and install/uninstall scripts | UselessBug & atonyxu; mirror by slidingwall | [Open](https://slidingwall.github.io/VVD/help.html) |
 | DDB Tools — packages your voicebank for Editors | Yuukawa Hiroshi | [Open](https://github.com/yuukawahiroshi/ddb-tools) |
 | DDB Tools GUI — even easier packaging | UselessBug & Yuukawa Hiroshi | [Open](https://github.com/ayatinene/ddb-tools) |
 | Dictionary Collection | ヾ(゜Д゜)ノ | [Open](https://mega.nz/folder/hkgUmRiS#6-UdxUvEKBK-5vjef6lpag) |
