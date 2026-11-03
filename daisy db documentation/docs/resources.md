@@ -17,10 +17,10 @@
 | Lab to seg | Rozea/Kori | [Open](https://drive.google.com/file/d/1Q1rUyF08BVCmDxuYPKkSut5CBX_OIx1J/view) |
 | Melodyne — for editing/correcting sample pitch | — | [Open](https://drive.google.com/file/d/1Ga566Es8hLinnDZxbxVMTOwuLzwzVdIT/view?usp=drivesdk) |
 
-## TRANSLATIONS
+## Translations
 
-The translations listed below are from other users (which are credited
-accordingly), therefore they may be out of date or altered
+The translations listed below were written by other users (which are credited
+accordingly), therefore they may be out of date or altered.
 
 Thank you for your work !
 
