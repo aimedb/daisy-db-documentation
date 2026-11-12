@@ -70,5 +70,6 @@ nav:
       - Compiling the Database: compiling/compiling.md
       - Component IDs & .vvd: compiling/component-ids.md
       - Editor Import: compiling/editor-import.md
+      - (Advanced) Registry Editor : compiling/registry.md
   - FAQ: faq.md
   - Resources: resources.md
