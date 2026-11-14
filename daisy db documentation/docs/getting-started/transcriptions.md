@@ -59,7 +59,7 @@ to transcript these accordingly.
 !!! danger "Author's note"
     Most often these apply to Japanese.
 
-| Stationary | Phonetic | Usage Example |
+| Stationary | Phonetic | Usage |
 |---|---|---|
 | Yes | N\ | [a] [i] [u] [e] [o] [j] [w] [h] [h/] [p/] [p/’] [C] [s] [S] |
 | Yes | n | [n] [t] [t'] [ts] [tS] [d] [d'] [dZ] [dz] [4] [4'] [Z] [z] [m] [m'] [J] [N] [N’] [N/] |
