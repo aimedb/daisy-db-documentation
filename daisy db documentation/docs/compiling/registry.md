@@ -41,7 +41,7 @@ Quick introduction to various Registry values :
 >DWORD Value : Data represented by a number that is four bytes (32 bits) long.
 
 >Multi-String Value : Multiple text strings formatted as an array of null-terminated strings,
-and terminated by two null characters. Selecting this command launches the Multi-Line String Value dialog box.
+and terminated by two null characters.
 
 >Expandable String Value : The value is interpreted and stored as an expandable string.
 An expandable string registry value is a null-terminated string that contains unexpanded
