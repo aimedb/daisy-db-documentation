@@ -39,6 +39,7 @@ to be 600x324.
 
 !!! danger "Author's note"
     Always remember to maintain the correct dimensions for setup .bmps !
+    Please also remember that they **must** be bitmap files.
 
 ## V4 Dev Usage
 
